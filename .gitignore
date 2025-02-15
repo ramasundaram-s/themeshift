@@ -29,6 +29,9 @@ yarn-error.log*
 *.swp
 *.swo
 
+# Documentation
+DOCUMENTATION.md
+
 # OS
 .DS_Store
 Thumbs.db
