@@ -2,6 +2,9 @@
 
 A lightweight, customizable theme toggler for React applications with smooth transitions and animated icons.
 
+## Demo
+[![ThemeShift Demo](https://img.youtube.com/vi/NWoMgf4FKo4/hqdefault.jpg)](https://www.youtube.com/shorts/NWoMgf4FKo4)
+
 ## Features ✨
 
 - 🌓 Default themes: Light, Dark, Sepia, and High Contrast
